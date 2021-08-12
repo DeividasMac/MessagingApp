@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "304905520908",
+    "firebase_url": "https://chat-application-1c5c2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "chat-application-1c5c2",
+    "storage_bucket": "chat-application-1c5c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304905520908:android:72b682c26cd723553feb29",
+        "android_client_info": {
+          "package_name": "com.junglist963.messagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304905520908-oi4b2jqbllrr5quouni8pcpqdc6g1v6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC__WZZAfUGbx89XXrOQDFJC0XP10XKIl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304905520908-oi4b2jqbllrr5quouni8pcpqdc6g1v6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
